@@ -15,8 +15,9 @@ I teach real electronics by building real things. You start with a Bluetooth-con
 **`/// START HERE`**
 
 1. **[The free build guide](https://troniction.com)** — the whole car, one ordered step at a time.
-2. **[Watch the builds](https://youtube.com/@troniction)** — every step on video.
-3. **[Stuck? The fixes](https://troniction.com/blog)** — car won't connect, motors won't spin.
+2. **[arduino-bluetooth-car](https://github.com/troniction/arduino-bluetooth-car)** — the code that goes on the board.
+3. **[Watch the builds](https://youtube.com/@troniction)** — every step on video.
+4. **[Stuck? The fixes](https://troniction.com/blog)** — car won't connect, motors won't spin.
 
 **`/// ON THE BENCH`**
 
